@@ -42,6 +42,8 @@ cd WikidotPageNotifier
 * site: Wikidot site name (e.g., scr-wiki)
 * wikidotLogin: Your Wikidot username and password, separated by a colon (username:password)
 * webhookURL: Your Discord webhook URL
+
+---
 ## Usage
 Run the php script:
 ```bash
@@ -53,7 +55,7 @@ php monitor.php
 * Send new pages to the configured Discord webhook.
 * Update latestPage.json with the newest page URL.
 
-Tip: Use cron to run the script periodically (e.g., every 5 minutes).
+**Tip:** Use cron to run the script periodically (e.g., every 5 minutes).
 
 Example cron entry:
 ```cron
