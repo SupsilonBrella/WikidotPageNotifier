@@ -1,0 +1,5 @@
+{
+  "site": "sitename",
+  "wikidotLogin": "username:password",
+  "webhookURL": "https://discord.com/api/webhooks/xxxx/xxxx"
+}
