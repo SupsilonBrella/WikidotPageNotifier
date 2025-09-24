@@ -4,15 +4,6 @@
 
 ---
 
-## Features
-
-- **Multi-page support**: Fetch and notify about multiple new pages in a single run.
-- **Duplicate prevention**: Ensures no duplicate alerts by tracking the latest notified page.
-- **Easy configuration**: Configure the site, login credentials, and Discord webhook URL via a simple `config.json` file.
-- **Lightweight**: Designed to run on PHP 5.5+ environments without additional dependencies.
-
----
-
 ## Requirements
 
 - PHP 5.5 or higher
